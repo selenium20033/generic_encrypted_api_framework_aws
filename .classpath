@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/accessors-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/jcip-annotations-1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/json-smart-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/lang-tag-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/nimbus-jose-jwt-7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/Authentication/oauth2-oidc-sdk-5.44.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/accessors-smart-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-api-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-connector-basic-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-impl-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-spi-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-transport-file-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-transport-http-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aether-util-1.0.2.v20150114.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aspectjrt-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/aspectjweaver-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/assertj-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/bcpkix-jdk15on-1.55.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/bcprov-jdk15on-1.55.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/classmate-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/com.ibm.jbatch-tck-spi-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/freemarker-2.3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/h2-1.4.192.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/hibernate-validator-5.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/hsqldb-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jackson-annotations-2.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jackson-core-2.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jackson-databind-2.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/javax.batch-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jedis-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jettison-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/joda-time-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jsonassert-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/json-path-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/json-smart-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/jul-to-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/log4j-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/mariadb-java-client-1.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/maven-aether-provider-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/maven-model-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/maven-model-builder-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/maven-repository-metadata-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/mockito-core-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/plexus-component-annotations-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/plexus-interpolation-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/plexus-utils-3.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/postgresql-9.4.1211.jre7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/snakeyaml-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-analytics-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-aop-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-batch-admin-manager-1.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-batch-admin-resources-1.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-batch-core-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-batch-infrastructure-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-batch-integration-1.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-beans-4.0.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-actuator-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-autoconfigure-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-configuration-metadata-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-loader-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-actuator-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-data-redis-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-jdbc-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-logging-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-security-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-test-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-tomcat-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-starter-web-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-test-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-boot-test-autoconfigure-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-commons-1.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-config-client-1.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-context-1.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-completion-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-configuration-metadata-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-core-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-registry-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-rest-resource-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-server-core-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-dataflow-ui-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-deployer-resource-maven-1.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-deployer-resource-support-1.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-deployer-spi-1.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-starter-1.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-starter-config-1.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-cloud-task-core-1.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-context-4.0.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-context-support-4.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-core-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-data-commons-1.12.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-data-keyvalue-1.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-data-redis-1.7.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-expression-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-hateoas-0.20.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-integration-core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-integration-file-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-integration-http-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-integration-jmx-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-jdbc-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-ldap-core-2.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-oxm-4.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-plugin-core-1.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-retry-1.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-config-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-core-3.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-crypto-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-ldap-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-oauth2-2.0.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-rsa-1.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-security-web-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-session-1.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-test-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-tx-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-web-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/spring-webmvc-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/tomcat-embed-core-8.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/tomcat-embed-el-8.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/tomcat-embed-websocket-8.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/tomcat-jdbc-8.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/tomcat-juli-8.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars Plugins/AuthenticationRequest/xstream-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MustafaOzkan/Desktop/jar_files2/json-path-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MustafaOzkan/Desktop/jar_files2/rest-assured-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MustafaOzkan/Desktop/jar_files2/rest-assured-common-3.0.0.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

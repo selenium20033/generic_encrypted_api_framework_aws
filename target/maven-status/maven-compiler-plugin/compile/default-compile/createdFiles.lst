@@ -1,0 +1,10 @@
+thinkwhy\middleware\api\sdk\ThinkWhyMiddlewareApiSdkClient.class
+thinkwhy\middleware\api\sdk\ThinkWhyMiddlewareApiSdkClientBuilder.class
+thinkwhy\middleware\api\sdk\model\transform\GetApiRootResultJsonUnmarshaller.class
+thinkwhy\middleware\api\sdk\model\GetApiRootRequest.class
+thinkwhy\middleware\api\sdk\model\transform\GetApiRootRequestMarshaller.class
+thinkwhy\middleware\api\sdk\model\ThinkWhyMiddlewareApiSdkException.class
+thinkwhy\middleware\api\sdk\model\transform\GetApiRootRequestProtocolMarshaller.class
+thinkwhy\middleware\api\sdk\AbstractThinkWhyMiddlewareApiSdk.class
+thinkwhy\middleware\api\sdk\model\GetApiRootResult.class
+thinkwhy\middleware\api\sdk\ThinkWhyMiddlewareApiSdk.class
